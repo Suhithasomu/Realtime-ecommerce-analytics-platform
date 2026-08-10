@@ -2,7 +2,6 @@
 
 A full-stack data engineering and machine learning project that processes live e-commerce orders through real-time streaming, fraud detection, sentiment analysis, product recommendations, and inventory monitoring — all displayed on a live analytics dashboard.
 
-> Built as part of an Advanced Systems course | August 2026
 
 ---
 
